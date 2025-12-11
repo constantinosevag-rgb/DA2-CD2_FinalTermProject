@@ -11,7 +11,7 @@ Data Analysis 2 / Coding 2 Final Term Project Repo
 This project investigates the relationship between the distance from the city center (Syntagma Square) and the listing price of Airbnb apartments in Athens. The goal is to determine the "location premium" and provide insights for potential investors or travelers.
 
 ## 📂 Repository Structure
-* `data/`: Contains the raw dataset (compressed).
+* `Data/`: Contains the raw dataset (compressed).
 * `images/`: Generated plots and visualizations.
 * `DA2_Term_Project.ipynb`: The main Jupyter Notebook with analysis and code.
 * `DA2_Term_Project.pdf`: The final report in PDF format.
