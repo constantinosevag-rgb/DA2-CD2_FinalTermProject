@@ -13,7 +13,7 @@ This project investigates the relationship between the distance from the city ce
 ## 📂 Repository Structure
 * `Data/`: Contains the raw dataset (compressed).
 * `DA2_Term_Project.ipynb`: The main Jupyter Notebook with analysis and code.
-* `DA2_Term_Project.pdf`: The final report in PDF format.
+* `Final Term Project.pdf`: The final report in PDF format.
 
 ## 📊 Data Source
 The dataset was obtained from [Inside Airbnb](http://insideairbnb.com/get-the-data/), specifically the "Detailed Listings" file for Athens.
