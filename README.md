@@ -12,7 +12,6 @@ This project investigates the relationship between the distance from the city ce
 
 ## 📂 Repository Structure
 * `Data/`: Contains the raw dataset (compressed).
-* `images/`: Generated plots and visualizations.
 * `DA2_Term_Project.ipynb`: The main Jupyter Notebook with analysis and code.
 * `DA2_Term_Project.pdf`: The final report in PDF format.
 
